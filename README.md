@@ -1,9 +1,3 @@
-# dot-Delta
-this is only for practice
+# new project
 
-#teacher
-shradha khapra
-
-#student 
-arti-203
-
+this project was created from local system
